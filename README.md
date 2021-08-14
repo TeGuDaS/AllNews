@@ -1,5 +1,3 @@
-# AllNews
-Welcom Welcom 
 <!DOCTYPE HTML>
 <html>
 <head>
