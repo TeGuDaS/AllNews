@@ -1,9 +1,9 @@
 ---
 name: Sibmit request
 about: what's you're issue
-title: ''
-labels: ''
-assignees: ''
+title: IT support
+labels: bug
+assignees: TeGuDaS
 
 ---
 
